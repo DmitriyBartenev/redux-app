@@ -11,12 +11,6 @@
       "name": "Морской герой",
       "description": "Как аквамен, но не из DC",
       "element": "water"
-    },
-    {
-      "id": "b108187e-3389-4c7c-8a2f-f59003ea1b46",
-      "name": "Морской дьявол",
-      "description": "Сидеть в зоне под водой 30 минут",
-      "element": "water"
     }
   ],
   "filters": [
