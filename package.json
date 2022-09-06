@@ -1,7 +1,7 @@
 {
   "name": "hero_admin_panel",
   "version": "0.1.0",
-  "homepage": "https://DmitriyBartenev.github.io/redux-app",
+  "homepage": "https://dmitriybartenev.github.io/redux-app/",
   "private": true,
   "dependencies": {
     "@reduxjs/toolkit": "^1.5.1",
